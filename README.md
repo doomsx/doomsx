@@ -1,6 +1,6 @@
 ## Dominique Louise
 
-Hello, I'm Dominique! I am a #Backend Developer
+Hello, I'm Dominique! I am a Backend Developer
 
 ## Social
 
