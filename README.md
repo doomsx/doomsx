@@ -1,73 +1,15 @@
-## Dominique Louise
+# 💫 About Me:
+Hello! I'm Dominique and I am a backend Developer
 
-Hello, I'm Dominique! I am a Backend Developer
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Social
 
-<div align="center">
-  <a href="https://www.facebook.com/" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="Facebook"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn"
-    />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Twitter"
-    />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-         alt="Instagram"
-    />
-  </a>
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dominique.magat08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominique-louise-magat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d0ms_) 
 
-## Tech Stack
-
-<div align="center">
-
-  <a href="#">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=black"
-         alt="JavaScript"
-    />
-  </a>
-  <a href="#">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=ebebeb"
-         alt="CSS"
-    />
-  </a>
-  <a href="#">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=black&logoSize=amd"
-         alt="PHP"
-    />
-  </a>
-  <a href="#">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=ebebeb"
-         alt="Tailwind"
-    />
-  </a>
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Development Environment
 
@@ -101,3 +43,14 @@ Hello, I'm Dominique! I am a Backend Developer
     />
   </a>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=doomsx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=doomsx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=doomsx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=doomsx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
