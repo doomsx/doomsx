@@ -34,13 +34,6 @@ Hello!, I'm Dominique Louise<br>I'm currently learning Laravel
   <a href="" target="_blank">
     <img
          align="center"
-         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-         alt="Ubuntu"
-    />
-  </a>
-  <a href="" target="_blank">
-    <img
-         align="center"
          src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"
          alt="Vim"
     />
