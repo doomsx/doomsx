@@ -38,6 +38,13 @@ Hello!, I'm Dominique Louise<br>I'm currently learning Laravel
          alt="Vim"
     />
   </a>
+  <a href="">
+    <img
+        align="center"
+        src="https://img.shields.io/badge/NeoVim-darkgreen?logo=neovim&style=for-the-badge"
+        alt="Neovim"
+      />
+  </a>
 </div>
 
 # 📊 GitHub Stats:
