@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!, I'm Dominique Louise<br>I'm currently learning React
+Hello!, I'm Dominique Louise<br>I'm currently learning Next
 
 ### ✍️ Random Dev Quote
 <div align="">
